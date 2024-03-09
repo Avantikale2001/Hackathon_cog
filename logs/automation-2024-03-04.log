@@ -1,0 +1,62 @@
+15:12:30.092 [main] INFO  TestCases.TC001_SearchwebDev - Click On Apply Button 
+15:12:30.161 [main] INFO  TestCases.TC001_SearchwebDev - Level list got printed 
+15:12:30.201 [main] INFO  TestCases.TC001_SearchwebDev - Clicked On 'COURSERA' 
+15:12:30.243 [main] INFO  TestCases.TC001_SearchwebDev -  Clicked  on 'FOR ENTERPRISE' 
+15:12:31.311 [main] INFO  TestCases.TC001_SearchwebDev - Clicked On Solutions 
+15:12:49.485 [main] INFO  TestCases.TC001_SearchwebDev - ----- Driver Launch -----
+15:13:40.702 [main] INFO  TestCases.TC001_SearchwebDev -  Search ' WEB DEVELOPMENT ' Courses 
+15:14:20.098 [main] INFO  TestCases.TC001_SearchwebDev -  Language seleted 
+15:14:20.491 [main] INFO  TestCases.TC001_SearchwebDev -  Level Selected 
+15:14:21.656 [main] INFO  TestCases.TC001_SearchwebDev - Printing Course Data
+15:15:16.894 [main] INFO  TestCases.TC001_SearchwebDev - Language count
+15:15:18.021 [main] INFO  TestCases.TC001_SearchwebDev - Language list got printed 
+15:15:21.911 [main] INFO  TestCases.TC001_SearchwebDev - Click On Apply Button 
+15:15:23.734 [main] INFO  TestCases.TC001_SearchwebDev - Level list got printed 
+15:15:28.350 [main] INFO  TestCases.TC001_SearchwebDev - Clicked On 'COURSERA' 
+15:15:58.882 [main] INFO  TestCases.TC001_SearchwebDev -  Clicked  on 'FOR ENTERPRISE' 
+15:16:51.517 [main] INFO  TestCases.TC001_SearchwebDev - Clicked On Solutions 
+15:16:54.278 [main] INFO  TestCases.TC001_SearchwebDev - Clicked on 'COURSES FOR CAMPUS' 
+15:17:39.165 [main] INFO  TestCases.TC001_SearchwebDev - form got filled  
+15:17:39.423 [main] INFO  TestCases.TC001_SearchwebDev - Error Message Occur 
+15:17:40.394 [main] INFO  TestCases.TC001_SearchwebDev - ---Execution Stop---
+15:21:36.968 [main] INFO  TestCases.TC001_SearchwebDev - ----- Driver Launch -----
+15:22:01.582 [main] INFO  TestCases.TC001_SearchwebDev -  Search ' WEB DEVELOPMENT ' Courses 
+15:22:27.247 [main] INFO  TestCases.TC001_SearchwebDev -  Language seleted 
+15:22:27.492 [main] INFO  TestCases.TC001_SearchwebDev -  Level Selected 
+15:22:28.108 [main] INFO  TestCases.TC001_SearchwebDev - Printing Course Data
+15:22:50.150 [main] INFO  TestCases.TC001_SearchwebDev - Language count
+15:22:50.890 [main] INFO  TestCases.TC001_SearchwebDev - Language list got printed 
+15:22:54.775 [main] INFO  TestCases.TC001_SearchwebDev - Click On Apply Button 
+15:22:55.709 [main] INFO  TestCases.TC001_SearchwebDev - Level list got printed 
+15:22:59.629 [main] INFO  TestCases.TC001_SearchwebDev - Clicked On 'COURSERA' 
+15:23:10.805 [main] INFO  TestCases.TC001_SearchwebDev -  Clicked  on 'FOR ENTERPRISE' 
+15:23:50.557 [main] INFO  TestCases.TC001_SearchwebDev - Clicked On Solutions 
+15:23:53.362 [main] INFO  TestCases.TC001_SearchwebDev - Clicked on 'COURSES FOR CAMPUS' 
+15:24:15.177 [main] INFO  TestCases.TC001_SearchwebDev - form got filled  
+15:24:15.598 [main] INFO  TestCases.TC001_SearchwebDev - Error Message Occur 
+15:24:16.681 [main] INFO  TestCases.TC001_SearchwebDev - ---Execution Stop---
+15:32:31.583 [main] INFO  TestCases.TC001_SearchwebDev - ----- Driver Launch -----
+15:34:24.710 [main] INFO  TestCases.TC001_SearchwebDev -  Search ' WEB DEVELOPMENT ' Courses 
+15:34:43.522 [main] INFO  TestCases.TC001_SearchwebDev -  Language seleted 
+15:34:43.872 [main] INFO  TestCases.TC001_SearchwebDev -  Level Selected 
+15:34:46.648 [main] INFO  TestCases.TC001_SearchwebDev - Printing Course Data
+15:35:41.378 [main] INFO  TestCases.TC001_SearchwebDev - Language count
+15:35:42.010 [main] INFO  TestCases.TC001_SearchwebDev - Language list got printed 
+15:35:46.535 [main] INFO  TestCases.TC001_SearchwebDev - Click On Apply Button 
+15:35:47.708 [main] INFO  TestCases.TC001_SearchwebDev - Level list got printed 
+15:35:51.197 [main] INFO  TestCases.TC001_SearchwebDev - Clicked On 'COURSERA' 
+15:36:12.966 [main] INFO  TestCases.TC001_SearchwebDev -  Clicked  on 'FOR ENTERPRISE' 
+15:37:13.563 [main] INFO  TestCases.TC001_SearchwebDev - Clicked On Solutions 
+15:37:16.237 [main] INFO  TestCases.TC001_SearchwebDev - Clicked on 'COURSES FOR CAMPUS' 
+15:37:39.392 [main] INFO  TestCases.TC001_SearchwebDev - form got filled  
+15:37:39.638 [main] INFO  TestCases.TC001_SearchwebDev - Error Message Occur 
+15:37:40.532 [main] INFO  TestCases.TC001_SearchwebDev - ---Execution Stop---
+15:40:21.054 [main] INFO  TestCases.TC001_SearchwebDev - ----- Driver Launch -----
+15:40:43.141 [main] INFO  TestCases.TC001_SearchwebDev -  Search ' WEB DEVELOPMENT ' Courses 
+15:40:53.401 [main] INFO  TestCases.TC001_SearchwebDev -  Language seleted 
+15:40:53.613 [main] INFO  TestCases.TC001_SearchwebDev -  Level Selected 
+15:40:54.151 [main] INFO  TestCases.TC001_SearchwebDev - Printing Course Data
+15:41:24.784 [main] INFO  TestCases.TC001_SearchwebDev - Language count
+15:41:25.801 [main] INFO  TestCases.TC001_SearchwebDev - Language list got printed 
+15:41:27.554 [main] INFO  TestCases.TC001_SearchwebDev - Click On Apply Button 
+15:41:28.667 [main] INFO  TestCases.TC001_SearchwebDev - Level list got printed 
